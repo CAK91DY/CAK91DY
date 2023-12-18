@@ -4,7 +4,7 @@
 - 👀 I’m interested in exploring data patterns, statistical analysis, and machine learning applications.
 - 🌱 I’m currently learning advanced data visualization techniques and refining my programming skills in languages such as Python, R and sql.
 - 💞️ I’m looking to collaborate on projects related to data-driven decision-making and predictive modeling.
-- 📫 You can reach me through [0643500526, cakpo_krist91@yahoo.com.].
+- 📫 You can reach me through [0643500526, cakpo_krist91@yahoo.com].
 
 <!---
 CAK91DY/CAK91DY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
